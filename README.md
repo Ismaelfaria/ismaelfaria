@@ -1,5 +1,5 @@
 ## Ola eu sou o ismael, estudante de programação e tecnologia!!!
-💻Cursando Java
+💻Estudando c#
 
 <div align="center">
   <a href="https://github.com/ismaelfaria">
