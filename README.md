@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-  <img align="center" alt="Rafa-Html" height="30" width="40" src="https://img1.pnghut.com/0/10/13/BUdjHb7Gbb/brand-cascading-style-sheets-html-yellow-web-resource.jpg" />
+  <img align="center" alt="Rafa-Html" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-1024.png" />
 </div>
   
 ##
