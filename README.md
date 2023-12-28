@@ -13,6 +13,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-Html" height="30" width="40" src="https://th.bing.com/th/id/OIP.2-WpYWJMkLlAR45JK6dmVwHaFA?w=840&h=568&rs=1&pid=ImgDetMain" />
 </div>
   
 ##
