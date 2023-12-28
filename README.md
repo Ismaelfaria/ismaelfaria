@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-  <img align="center" alt="Rafa-Html" height="30" width="25" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-1024.png" />
+  <img align="center" alt="Rafa-Html" height="30" width="25" src="https://www.svgrepo.com/show/102011/css-3.svg" />
 </div>
   
 ##
