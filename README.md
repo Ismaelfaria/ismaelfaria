@@ -12,9 +12,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://www.svgrepo.com/show/372881/java.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://www.svgrepo.com/show/369216/c-sharp.svg" />
-  <img align="center" alt="Rafa-Html" height="30" width="25" src="https://www.svgrepo.com/show/391463/html5.svg" />
+  <img align="center" alt="Rafa-Jv" height="30" width="40" src="https://www.svgrepo.com/show/372881/java.svg" />
+  <img align="center" alt="Rafa-c#" height="30" width="40" src="https://www.svgrepo.com/show/369216/c-sharp.svg" />
+  <img align="center" alt="Rafa-css" height="30" width="25" src="https://www.svgrepo.com/show/391463/html5.svg" />
   <img align="center" alt="Rafa-Html" height="30" width="25" src="https://www.svgrepo.com/show/391415/css3.svg" />
 </div>
   
