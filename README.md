@@ -7,7 +7,7 @@
   </a>
   <br> <!-- Adicionando uma quebra de linha -->
   <a href="https://github.com/ismaelfaria">
-    <img src="https://github-readme-stats.vercel.app/api?username=ismaelfaria"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ismaelfaria&show_icons=true&theme=dark"/>
   </a>
 </div>
 
