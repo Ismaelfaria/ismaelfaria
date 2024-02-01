@@ -5,7 +5,7 @@
   <a href="https://github.com/ismaelfaria">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelfaria&layout=donut&theme=dark"/>
   </a>
-  <br> <!-- Adicionando uma quebra de linha -->
+
   <a href="https://github.com/ismaelfaria">
     <img src="https://github-readme-stats.vercel.app/api?username=ismaelfaria&show_icons=true&theme=dark"/>
   </a>
