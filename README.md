@@ -1,7 +1,7 @@
 ## Ola eu sou o ismael, estudante de programação e tecnologia!!!
 💻Estudando
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/ismaelfaria">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelfaria&layout=donut&theme=dark"/>
   </a>
